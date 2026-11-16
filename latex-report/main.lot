@@ -1,0 +1,17 @@
+\contentsline {table}{Table 2.2: Published resource estimates for breaking RSA-2048 and ECC-256}{16}{section*.22}%
+\contentsline {table}{Table 2.1: Summary of reviewed literature by theme}{18}{section*.24}%
+\contentsline {table}{Table 3.1: Operational definitions of study variables}{21}{section*.31}%
+\contentsline {table}{Table 3.2: Integers and bases selected for simulation}{23}{section*.32}%
+\contentsline {table}{Table 3.3: Payment components and estimated time parameters (years: low / most likely / high)}{23}{section*.32}%
+\contentsline {table}{Table 3.4: Analysis techniques by objective}{25}{section*.35}%
+\contentsline {table}{Table 4.1: Observed versus theoretical success of period finding (4,096 runs per case)}{30}{section*.40}%
+\contentsline {table}{Table 4.2: Success funnel for all 22 cases (observed / theoretical \%, 4,096 runs each)}{33}{section*.41}%
+\contentsline {table}{Table 4.3: Period recovered against counting qubits (observed / theoretical \%, 4,096 runs each)}{34}{section*.42}%
+\contentsline {table}{Table 4.4: Independent verification with SymPy}{36}{section*.43}%
+\contentsline {table}{Table 4.5: Circuit resources after compilation (a = 2)}{37}{section*.44}%
+\contentsline {table}{Table 4.6: Success rate under increasing gate error (N = 15, a = 7, 4,096 runs each)}{38}{section*.45}%
+\contentsline {table}{Table 4.7: Grover key-search cost for AES (log\textsubscript {2} of Grover iterations)}{39}{section*.46}%
+\contentsline {table}{Table 4.8: Quantum exposure of payment-system components}{39}{section*.46}%
+\contentsline {table}{Table 4.9: Migration priority scores and ranking (most likely values)}{40}{section*.47}%
+\contentsline {table}{Table 4.10: Monte Carlo sensitivity analysis (20,000 draws)}{42}{section*.47}%
+\contentsline {table}{Table 4.11: Summary of hypothesis test results}{43}{section*.48}%
